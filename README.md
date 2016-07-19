@@ -23,8 +23,26 @@ If (and when) I have more time, I will do the following:<br/>
 --> have a way of knowing when the user is connected to pass on the user id to the MySQL stored procedures without the user inputting anything <br/>
 --> pass on the enigma id in a similar way <br/>
 --> make the website more secured ( find a way to have a hashed password without it being too long to store in the database) <br/>
---> find all the enigmas I will use with associated hints and locations and put them in the enigmas table <br/>
+--> find all the enigmas I will use, with associated hints and locations and put them in the enigmas table <br/>
 --> 
 
+... More Generally ...:
+--> have a riddle show up every day, if you answer it correctly, you get a jewel. (you only get 1 chance) <br/>
+--> if you have 8 jewels you can unlock a hint (there is 1 hint per enigma). <br/>
+--> change the enigma codes regularly and comunicate them to a device <br/>
+--> the adventurers can post pictures of thier travel and enter a contest to win a prize <br/>
+--> a funding button where people can support the project (i dont want to put commercials on the website but I woudl like an income) <br/>
+--> a ranking system that show who is closer to the treasure <br/>
+--> make the website beautiful <br/>
+--> make the code beautiful <br/>
+
+
+Here are some pictures to show what the website displays :
+
+
+Since web development is new to me, this tutorial helped me a lot and I based my code off of it:
+http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+
+I have learned a lot this weekend and will continue to learn how to develop web applications this summer! 
 
 
