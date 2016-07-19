@@ -39,7 +39,7 @@ If (and when) I have more time, I will do the following:<br/>
 
 Here are some pictures to show what the website displays :
 
-![Alt text](/The_Great_Adventure/FlaskApp/pictures/1.png?raw=true "1")
+![Alt text](/FlaskApp/pictures/1.png?raw=true "1")
 
 
 
