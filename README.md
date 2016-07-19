@@ -16,7 +16,7 @@ The web app works in the following way so far:<br/>
 THE TRICKIEST PROBLEM ENCOUNTERED:
 
 As a general rule, to troubleshoot, I would make small changes to the code or print texts in the comsole depending on which parts of the program executed and then see what changed or appeared as a result. From there, I would deduce where the problem was comming from. I would also google error messages or unexpected behavior.<br/>
-The trickiest problem I encountered was that I wasn't able to render an html file propertly when a button was pressed due to incorrect code in the javascipt file.
+The trickiest problem I encountered was that I wasn't able to render an html file propertly when a button was pressed due to incorrect code in the javascipt file. <br/>
 --> The tricky part was that the server didn't update the changes that where made to the javascript file when I had saved the modification to the file on my computer. So i couldn't deduce where the problem was coming from at first. After some thourough googling I deleted the cashed files and the updated javascript file was the one exectued and everything worked.
 
 FURTHER IMPROOVEMENTS:
@@ -27,7 +27,8 @@ If (and when) I have more time, I will do the following:<br/>
 --> pass on the enigma id in a similar way <br/>
 --> make the website more secured ( find a way to have a hashed password without it being too long to store in the database) <br/>
 --> find all the enigmas I will use, with associated hints and locations and put them in the enigmas table <br/>
---> 
+--> change the SQL query to make the getEnigma procedure apply to all the enigmas not just the one with id = 2 <br/>
+--> make the enigma code change regularly and communicate to a device
 
 ... More Generally ...:
 --> have a riddle show up every day, if you answer it correctly, you get a jewel. (you only get 1 chance) <br/>
