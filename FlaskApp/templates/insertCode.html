@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>The Great Adventure</title>
+ 
+    
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+ 
+    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+    <link href="../static/signup.css" rel="stylesheet">
+    <script src="../static/js/jquery-3.1.0.js"></script>
+    <script src="../static/js/submitCode.js"></script>
+    
+  </head>
+ 
+  <body>
+ 
+    <div class="container">
+      <div class="header">
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li role="presentation" ><a href="main">Home</a></li>
+            <li role="presentation"><a href="showSignIn">Sign In</a></li>
+            <li role="presentation" class="active"><a href="#">Sign Up</a></li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">The Great Adventure</h3>
+      </div>
+ 
+      <div class="jumbotron">
+        <h1>Insert Code and Location</h1>
+        <form class="form-signin">
+        <label for="inputCode" class="sr-only">Code</label>
+        <input type="code" name="inputCode" id="inputCode" class="form-control" placeholder="Code" required autofocus>
+        <label for="inputLocation" class="sr-only">Location</label>
+        <input type="location" name="inputLocation" id="inputLocation" class="form-control" placeholder="Location" required autofocus>
+ 
+        <button id="btnSubmitCode" class="btn btn-lg btn-primary btn-block" type="button">Submit Code</button>
+      </form>
+      </div>
+ 
+       
+ 
+      <footer class="footer">
+        <p>&copy;MagaCorp</p>
+      </footer>
+ 
+    </div>
+  </body>
+</html>
