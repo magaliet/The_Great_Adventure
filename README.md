@@ -4,7 +4,7 @@ WHAT THIS WEBSITE DOES:
 
 This website is an application that supports a big scavenger hunt around the world. The idea is that at different locations around the world there would be hidden devices receiving codes that change regularly. If the code that appears on the device is submitted to the application at the right time in the process of the scavenger hunt, you get the enigma that leads you to the next location, until you find the treasure.
 
-I chose to do this for the coding challenge because it is something I would enjoy participating in. Also, if I happen to be rich when I am older, some of my estate will be the treasure of a big treasure hunt so starting on the app supporting this project might be useful for my future. Furthermore this has app some similarities with the app I would be working on at Awake labs.
+I chose to do this for the coding challenge because it is something I would enjoy participating in. Also, if I happen to be rich when I am older, some of my estate will be the treasure of a big scavenger hunt so starting on the app supporting this project might be useful for my future. Furthermore this has app some similarities with the app I would be working on at Awake labs.
 
 The web app works in the following way so far:<br/>
   --> When you arrive on the home page you can click the sign up or sign in buttons which lead you to thier respective pages. <br/>
@@ -17,7 +17,7 @@ THE TRICKIEST PROBLEM ENCOUNTERED:
 
 As a general rule, to troubleshoot, I would make small changes to the code or print texts in the console depending on which parts of the program executed and then see what changed or appeared as a result. From there, I would deduce where the problem was comming from. I would also google error messages or unexpected behavior.<br/>
 The trickiest problem I encountered was that I wasn't able to render an html file propertly when a button was pressed due to incorrect code in the javascipt file. <br/>
---> The tricky part was that the server didn't update the changes that where made to the javascript file when I had saved the modification to the file on my computer. So i couldn't deduce where the problem was coming from at first. After some thourough googling I deleted the cashed files and the updated javascript file was the one exectued and everything worked.
+--> The tricky part was that the server didn't update the changes that where made to the javascript file when I had saved the modification to the file on my computer. So i couldn't deduce where the problem was coming from at first. After some thourough googling I deleted the cached files and the updated javascript file was the one exectued and everything worked.
 
 FURTHER IMPROOVEMENTS:
 
@@ -30,7 +30,7 @@ If (and when) I have more time, I will do the following:<br/>
 --> change the SQL query to make the getEnigma procedure apply to all the enigmas not just the one with id = 2 <br/>
 --> make all the buttons do what they are supposed to
 
-... More Generally ...:
+... More Generally ...: <br/>
 --> have a riddle show up every day, if you answer it correctly, you get a jewel. (you only get 1 chance) <br/>
 --> if you have 8 jewels you can unlock a hint (there is 1 hint per enigma). <br/>
 --> change the enigma codes regularly and comunicate them to a device <br/>
