@@ -6,8 +6,8 @@ This website is an application that supports a big scavenger hunt around the wor
 I chose to do this for the coding challenge because it is something I would enjoy participating in. Also, if I happen to be rich when I am older, some of my estate will be the treasure of a big treasure hunt so starting on the app supporting this project might be useful for my future. Furthermore this has app some similarities with the app I would be working on at Awake labs.
 
 The web app works in the following way so far:
-  --> When you arrive on the home page you can click the sign up or sign in buttons which lead you to thier respective pages.
-  --> Once on the sign up page you can fill in the form and become an adventurer if you haven't used this email to sign up before.
+  --> When you arrive on the home page you can click the sign up or sign in buttons which lead you to thier respective pages. /p
+  --> Once on the sign up page you can fill in the form and become an adventurer if you haven't used this email to sign up before./p
   --> If you are signed up you can log in on the sign in page (by using the informatioin you've signed up with).
   --> If you have logged in successfuly you arrive on a new page where you are asked to insert a code and a location, which if correct leads you to an enigma.
   --> On this enigma page, if you answer correctly to the problem you get a CORRECT message and an INCORRECT message if wrong.
