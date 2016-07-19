@@ -37,11 +37,7 @@ If (and when) I have more time, I will do the following:<br/>
 --> make the code beautiful <br/>
 
 
-Here are some pictures to show what the website displays :
-
-![Alt text](/FlaskApp/pictures/1.png?raw=true "1")
-
-
+There are some pictures that show what the website displays at /FlaskApp/pictures.
 
 
 Since web development is new to me, this tutorial helped me a lot and I based my code off of it:
