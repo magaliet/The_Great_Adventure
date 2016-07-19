@@ -39,6 +39,10 @@ If (and when) I have more time, I will do the following:<br/>
 
 Here are some pictures to show what the website displays :
 
+![Alt text](/The_Great_Adventure/FlaskApp/pictures/1.png?raw=true "1")
+
+
+
 
 Since web development is new to me, this tutorial helped me a lot and I based my code off of it:
 http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
