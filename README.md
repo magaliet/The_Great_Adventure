@@ -15,9 +15,9 @@ The web app works in the following way so far:<br/>
 
 THE TRICKIEST PROBLEM ENCOUNTERED:
 
-As a general rule, to troubleshoot, I would make small changes to the code or print texts in the comsole depending on which parts of the program executed and see what changed or appeared as a result. From there, I would deduce where the problem was comming from. I would also google error messages or unexpected behavior.<br/>
-The trickiest problem I encountered was that I wasnt able to render an html file propertly when pressed on a button.
---> The tricky part was that I made the mistake in the Javascript file associated with the button and the server didn't update the changes that where made to the file when I had saved the modification to the file on my computer. After some thourough googling I deleted the cashed files and the updated javascript file was the one exectued and everything worked.
+As a general rule, to troubleshoot, I would make small changes to the code or print texts in the comsole depending on which parts of the program executed and then see what changed or appeared as a result. From there, I would deduce where the problem was comming from. I would also google error messages or unexpected behavior.<br/>
+The trickiest problem I encountered was that I wasnt able to render an html file propertly when a button was pressed due to incorrect code in the javascipt file.
+--> The tricky part was that the server didn't update the changes that where made to the javascript file when I had saved the modification to the file on my computer. After some thourough googling I deleted the cashed files and the updated javascript file was the one exectued and everything worked.
 
 FURTHER IMPROOVEMENTS:
 
