@@ -1,7 +1,8 @@
 # The_Great_Adventure
 
+WHAT THIS WEBSITE DOES:
 
-This website is an application that supports a big scavenger hunt around the world. The idea is that at different locations around the world there would be devices receiving codes that change regularly. If the code that appears on the device is submitted to the application at the right time in the process of the scavenger hunt, you get the enigma that leads you to the next location until you find the treasure.
+This website is an application that supports a big scavenger hunt around the world. The idea is that at different locations around the world there would be hidden devices receiving codes that change regularly. If the code that appears on the device is submitted to the application at the right time in the process of the scavenger hunt, you get the enigma that leads you to the next location, until you find the treasure.
 
 I chose to do this for the coding challenge because it is something I would enjoy participating in. Also, if I happen to be rich when I am older, some of my estate will be the treasure of a big treasure hunt so starting on the app supporting this project might be useful for my future. Furthermore this has app some similarities with the app I would be working on at Awake labs.
 
@@ -12,11 +13,13 @@ The web app works in the following way so far:<br/>
   --> If you have logged in successfuly you arrive on a new page where you are asked to insert a code and a location, which if correct leads you to an enigma.<br/>
   --> On this enigma page, if you answer correctly to the problem you get a CORRECT message and an INCORRECT message if wrong.<br/>
 
+THE TRICKIEST PROBLEM ENCOUNTERED:
 
 The trickiest problem I encountered was that I wasnt able to render an html file propertly when pressed on a button.
 As a general rule, to troubleshoot, I would make small changes to the code or print texts in the comsole depending on which parts of the program executed and see what changed or appeared as a result. From there, I would deduce where the problem was comming from. I would also google error messages or unexpected behavior.<br/>
 --> However, here I had made a mistake in the Javascript file associated with the button and the server didn't update the changes that where made to the file when I had saved the modification to the file on my computer. After some thourough googling I deleted the cashed files and the updated javascript file was the one exectued and everything worked.
 
+FURTHER IMPROOVEMENTS:
 
 If (and when) I have more time, I will do the following:<br/>
 
