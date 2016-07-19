@@ -44,7 +44,7 @@ If (and when) I have more time, I will do the following :<br/>
 There are some pictures that show what the website displays at /FlaskApp/pictures.
 
 
-Since web development is new to me, this tutorial helped me a lot and I based my code off of it:
+Since web development is new to me, this tutorial helped me a lot get started and I based part of my code off of it:
 http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
 
 I have learned a lot this weekend and will continue to learn how to develop web applications this summer! 
